@@ -1,0 +1,18 @@
+{
+  "name": "print_server",
+  "version": "1.0.0",
+  "description": "服务端",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.1.0",
+    "express": "^4.16.3",
+    "expresss": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaojun",
+  "license": "ISC"
+}
